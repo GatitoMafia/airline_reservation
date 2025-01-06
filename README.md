@@ -5,4 +5,4 @@ to create the database you need to follow the steps
 2) Run data.py
 3) Run diorthosh.py
 4) Run diorthosh2.py
-5)File named sql-queries.py contains some extra queries in SQL 
+5) File named sql-queries.py contains some extra queries in SQL 
