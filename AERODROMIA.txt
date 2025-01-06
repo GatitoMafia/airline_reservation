@@ -1,0 +1,61 @@
+AP001	Athens International Airport	Athens	Greece
+AP002	Thessaloniki International Airport	Thessaloniki	Greece
+AP003	London International Airport	London	UK
+AP004	Manchester International Airport	Manchester	UK
+AP005	New York International Airport	New York	USA
+AP006	Los Angeles International Airport	Los Angeles	USA
+AP007	Paris International Airport	Paris	France
+AP008	Nice International Airport	Nice	France
+AP009	Berlin International Airport	Berlin	Germany
+AP010	Frankfurt International Airport	Frankfurt	Germany
+AP011	Tokyo International Airport	Tokyo	Japan
+AP012	Osaka International Airport	Osaka	Japan
+AP013	Sydney International Airport	Sydney	Australia
+AP014	Melbourne International Airport	Melbourne	Australia
+AP015	Rome International Airport	Rome	Italy
+AP016	Milan International Airport	Milan	Italy
+AP017	Dubai International Airport	Dubai	UAE
+AP018	Abu Dhabi International Airport	Abu Dhabi	UAE
+AP019	Toronto International Airport	Toronto	Canada
+AP020	Vancouver International Airport	Vancouver	Canada
+AP021	Madrid International Airport	Madrid	Spain
+AP022	Barcelona International Airport	Barcelona	Spain
+AP023	Istanbul International Airport	Istanbul	Turkey
+AP024	Ankara International Airport	Ankara	Turkey
+AP025	Chicago International Airport	Chicago	USA
+AP026	Beijing International Airport	Beijing	China
+AP027	Shanghai International Airport	Shanghai	China
+AP028	Amsterdam International Airport	Amsterdam	Netherlands
+AP029	Vienna International Airport	Vienna	Austria
+AP030	Prague International Airport	Prague	Czech Republic
+AP031	Moscow International Airport	Moscow	Russia
+AP032	Stockholm International Airport	Stockholm	Sweden
+AP033	Oslo International Airport	Oslo	Norway
+AP034	Copenhagen International Airport	Copenhagen	Denmark
+AP035	Brussels International Airport	Brussels	Belgium
+AP036	Zurich International Airport	Zurich	Switzerland
+AP037	Geneva International Airport	Geneva	Switzerland
+AP038	Lisbon International Airport	Lisbon	Portugal
+AP039	Porto International Airport	Porto	Portugal
+AP040	Dublin International Airport	Dublin	Ireland
+AP041	Edinburgh International Airport	Edinburgh	UK
+AP042	Glasgow International Airport	Glasgow	UK
+AP043	Seoul International Airport	Seoul	South Korea
+AP044	Busan International Airport	Busan	South Korea
+AP045	Bangkok International Airport	Bangkok	Thailand
+AP046	Phuket International Airport	Phuket	Thailand
+AP047	Helsinki International Airport	Helsinki	Finland
+AP048	Tallinn International Airport	Tallinn	Estonia
+AP049	Riga International Airport	Riga	Latvia
+AP050	Vilnius International Airport	Vilnius	Lithuania
+AP051	Warsaw International Airport	Warsaw	Poland
+AP052	Krakow International Airport	Krakow	Poland
+AP053	Budapest International Airport	Budapest	Hungary
+AP054	Belgrade International Airport	Belgrade	Serbia
+AP055	Sofia International Airport	Sofia	Bulgaria
+AP056	Zagreb International Airport	Zagreb	Croatia
+AP057	Ljubljana International Airport	Ljubljana	Slovenia
+AP058	Bratislava International Airport	Bratislava	Slovakia
+AP059	Munich International Airport	Munich	Germany
+AP060	Hamburg International Airport	Hamburg	Germany
+AP061	Naples International Airport	Naples	Italy
